@@ -1,10 +1,12 @@
 [
   {
     "id": "1",
-    "notification": "hello user how are you"
+     "notification": "🚨 Important Update: We’ve made significant improvements to the app, including faster invoice generation, a smoother user experience, and new customization options for your business profile. Don’t forget to update your app to the latest version to enjoy all the new features. Thank you for being a part of the FormSathi community!",
+    "status": "true"
   },
   {
     "id": "2",
-    "notification": "New Notification coming soon"
+     "notification": "🎉 New invoice templates released. Check them in the templates tab.",
+    "status": "true"
   }
 ]
