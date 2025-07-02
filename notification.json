@@ -8,5 +8,10 @@
     "id": "2",
      "notification": "🎉 New invoice templates released. Check them in the templates tab.",
     "status": "true"
+  },
+   {
+    "id": "2",
+    "notification": "✅ Store registration completed. Welcome to FormSathi!",
+    "status": "true"
   }
 ]
