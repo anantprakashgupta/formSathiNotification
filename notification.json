@@ -1,5 +1,12 @@
 [
   {
+    "id": "5",
+    "notification": "🧾  Important Update: We’ve made significant improvements to the app, including faster invoice generation, a smoother user experience, and new customization options for your business profile. Don’t forget to update your app to the latest version to enjoy all the new features. Thank you for being a part of the FormSathi community!",
+    "status": true,
+    "timestamp": "2025-07-02T23:20:00Z",
+    "type": "success"
+  },
+  {
     "id": "4",
     "notification": "🧾 Your invoice has been generated successfully.",
     "status": true,
